@@ -2,7 +2,7 @@
 
 A *News Reader* desktop application written in Java.
 
-This project was developed as part of my *Distributed and Concurrent Programming* class.
+This project was developed as part of my *Concurrent and Distributed Programming* class.
 
 ##### Key Features:
 - Client-Server Architecture
